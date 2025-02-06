@@ -1,6 +1,6 @@
-# BOOKS
+# Reading-Archive
 
-# Welcome to My Reading Log
+Welcome to My Reading Log
 
 I’ve decided to keep track of my reading starting in 2024 and onward. This idea came from wanting a clear, organized record of the books I finish, plus a space to note my impressions and discoveries along the way.
 
